@@ -7,7 +7,7 @@
 <h4> 
 :dizzy: Request flow looks like this :
 Request comes from browser and it goes to external service of mongo express , it will then be forwarded to mongo express pod , pod will transfer that to internal service of Mongodb then it gets forwarded to Mongodb pod </h4>
-<img src ="">
-<img src ="">
-<img src ="">
-<img src ="">
+<img src ="https://github.com/Annoyshah/Hello_kubernetes/blob/main/Images/demo-proj1.png">
+<img src ="https://github.com/Annoyshah/Hello_kubernetes/blob/main/Images/demo-proj2.png">
+<img src ="https://github.com/Annoyshah/Hello_kubernetes/blob/main/Images/demo-proj3.png">
+<img src ="https://github.com/Annoyshah/Hello_kubernetes/blob/main/Images/demo-proj4(copy 1).png">
