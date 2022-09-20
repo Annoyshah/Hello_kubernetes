@@ -6,4 +6,4 @@
 
 <h4> 
 :dizzy: Request flow looks like this :
-Request comes from browser and it goes to external service of mongo express , it will then be forwarded to mongo express pod , pod will transfer that to internal service of Mongodb ( that's basically database url here) then it gets forwarded to Mongodb pod </h4>
+Request comes from browser and it goes to external service of mongo express , it will then be forwarded to mongo express pod , pod will transfer that to internal service of Mongodb then it gets forwarded to Mongodb pod </h4>
